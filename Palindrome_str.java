@@ -1,3 +1,4 @@
+//palindrome using builtin method
 package palindrome_str;
 import java.util.*;
 public class Palindrome_str {
